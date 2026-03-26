@@ -1,0 +1,4 @@
+git branch -vv
+  bug-fix-revert 9a8fdbb [origin/bug-fix-revert] Revert "Readme.md file changes"
+  bug-fix-typo   31a9740 [origin/bug-fix-typo] Readme.md file changes
+* main           31a9740 [origin/main] Readme.md file changes
